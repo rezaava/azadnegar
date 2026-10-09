@@ -39,7 +39,6 @@ using AzadNegar.TaskPanes.InsertQuran;
 using AzadNegar.Templates;
 using static AzadNegar.DedicatedFunctions;
 using System.Drawing;
-using System.Windows.Forms;
 
 namespace AzadNegar
 {
